@@ -1,0 +1,3 @@
+download/install angular
+create project
+made component "home"
